@@ -1,0 +1,19 @@
+.app {
+  position: absolute;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+}
+
+.contain {
+  width: 376px;
+  height: 746px;
+  z-index: 100;
+  background: #eeeff1;
+  border-radius: 3px;
+  box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.9);
+}

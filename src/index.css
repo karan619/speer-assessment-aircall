@@ -1,0 +1,21 @@
+html,
+body,
+h1,
+h2,
+h3,
+ul,
+li {
+  margin: 0 !important;
+  padding: 0 !important;
+  border: 0 !important;
+  font: inherit !important;
+  font-size: 100% !important;
+}
+
+body {
+  background: #233142 !important;
+  font-family: helvetica, arial, sans-serif !important;
+  font-size: 13px !important;
+  color: #333333 !important;
+  line-height: 1 !important;
+}

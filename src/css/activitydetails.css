@@ -1,0 +1,26 @@
+.call__wrapper {
+  height: 632px;
+  padding: 10px;
+}
+
+.call__section-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px;
+  border: 1px solid black;
+  border-radius: 10px;
+  margin-top: 20px;
+}
+
+.call__section-left {
+  display: flex;
+}
+.call__section-wrapper-right {
+  display: flex;
+  align-items: center;
+}
+
+.info__button {
+  cursor: pointer;
+}
